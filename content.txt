@@ -1,0 +1,9 @@
+!define TEST_SYSTEM {slim}
+!path FitNesseRoot/FrontPage/VerifyRatingScala
+
+!|VerifyRating|
+|teamName|played|won|drawn|lost|rating?|
+|A|4|3|1|0|83|
+|B|5|3|2|0|83|
+|C|6|4|3|0|83|
+|D|10|5|0|5|50|
